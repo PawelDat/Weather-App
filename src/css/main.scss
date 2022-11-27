@@ -1,11 +1,2 @@
-body{
-    margin: 0 ;
-    background-color:#d5d4d4;
-    font-family: 'Times New Roman', Times, serif;
-}
-
-
-.container{
-    max-width: 1080px;
-    margin: 20px auto;
-}
+@import "./components/global";
+@import "./components/currentweather";
